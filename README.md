@@ -1,4 +1,4 @@
-# Snappy Rust port
+# Rust port of Google snappy
 
 References:
 
